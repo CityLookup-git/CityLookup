@@ -1,5 +1,7 @@
 # CityLookup
 
+This is a practice project I did as my application for a college internship.
+
 ## Overview
 CityLookup is an integrated solution for city address lookup, consisting of a Python-based backend API and a Next.js-based frontend application. It's designed to provide a comprehensive system for retrieving and displaying city street data efficiently.
 
